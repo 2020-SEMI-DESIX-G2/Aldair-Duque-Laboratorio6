@@ -1,0 +1,14 @@
+[
+    {
+        "id": "1",
+        "Nombre": "Aldair",
+        "Apellido": "Duque",
+        "Cedula": "8-923-2304"
+    },
+    {
+        "id": "2",
+        "Nombre": "Jose",
+        "Apellido": "Gonzales",
+        "Cedula": "8-943-3454"
+    }
+]
